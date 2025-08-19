@@ -1,4 +1,4 @@
- Word-Guessing-Game-through-its-Letters-Using-Python
+ # Word-Guessing-Game-through-its-Letters-Using-Python
 The Word Guessing Game is a simple yet engaging Python project that combines logic, vocabulary, and fun. The core idea of the game is to let the computer select a random word, and the player has to guess it letter by letter. At the beginning of the game, the chosen word is hidden and represented as underscores on the screen, with each underscore standing for one letter. The player then inputs letters one at a time. If the guessed letter is present in the word, the program reveals it in the correct position(s). If the letter is not part of the word, the player loses an attempt.
 
 The game usually allows only a limited number of incorrect guesses, adding challenge and excitement to the experience. It also keeps track of the letters already guessed, so the player does not waste attempts by repeating the same input. Once the player either guesses all the letters correctly or runs out of attempts, the game ends with a win/lose message and the option to play again.
